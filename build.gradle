@@ -42,6 +42,8 @@ dependencies {
     include modImplementation("com.github.sib-energy-craft:mod-ores:${project.sec_mod_ores_version}")
     include modImplementation("com.github.sib-energy-craft:mod-metallurgy:${project.sec_mod_metallurgy_version}")
     include modImplementation("com.github.sib-energy-craft:mod-cables:${project.sec_mod_cables_version}")
+    include modImplementation("com.github.sib-energy-craft:mod-energy-items:${project.sec_mod_energy_items_version}")
+    include modImplementation("com.github.sib-energy-craft:mod-machines:${project.sec_mod_machines_version}")
 }
 
 processResources {
