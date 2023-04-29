@@ -39,6 +39,7 @@ dependencies {
     include modImplementation("com.github.sib-energy-craft:mod-tools-impl:${project.sec_mod_tools_impl_version}")
     include modImplementation("com.github.sib-energy-craft:mod-rubber:${project.sec_mod_rubber_version}")
     include modImplementation("com.github.sib-energy-craft:mod-recipes:${project.sec_mod_recipes_version}")
+    include modImplementation("com.github.sib-energy-craft:mod-recipes-impl:${project.sec_mod_recipes_impl_version}")
     include modImplementation("com.github.sib-energy-craft:mod-ores:${project.sec_mod_ores_version}")
     include modImplementation("com.github.sib-energy-craft:mod-metallurgy:${project.sec_mod_metallurgy_version}")
     include modImplementation("com.github.sib-energy-craft:mod-cables:${project.sec_mod_cables_version}")
