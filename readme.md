@@ -95,6 +95,15 @@ Mod namespace: sib_energy_craft
 | rubber_wood           | [mod-rubber](https://github.com/sib-energy-craft/mod-rubber) |
 | stripped_rubber_wood  | [mod-rubber](https://github.com/sib-energy-craft/mod-rubber) |
 
+### Chests
+
+| Code          | Project                                                      |
+|---------------|--------------------------------------------------------------|
+| iron_chest    | [mod-chests](https://github.com/sib-energy-craft/mod-chests) |
+| copper_chest  | [mod-chests](https://github.com/sib-energy-craft/mod-chests) |
+| gold_chest    | [mod-chests](https://github.com/sib-energy-craft/mod-chests) |
+| diamond_chest | [mod-chests](https://github.com/sib-energy-craft/mod-chests) |
+
 ### Other
 
 | Code                 | Project                                                              |
@@ -112,6 +121,17 @@ Mod namespace: sib_energy_craft
 | tree_tap     | [mod-tools-impl](https://github.com/sib-energy-craft/mod-tools-impl) |
 | iron_hammer  | [mod-metallurgy](https://github.com/sib-energy-craft/mod-metallurgy) |
 | metal_shears | [mod-metallurgy](https://github.com/sib-energy-craft/mod-metallurgy) |
+
+### Energy Tools
+
+| Code            | Capacity | Project                                                                   |
+|-----------------|----------|---------------------------------------------------------------------------|
+| mining_drill    | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| diamond_drill   | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| netherite_drill | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| energy_tree_tap | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| energy_saw      | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| energy_hoe      | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
 
 ### Ores
 
