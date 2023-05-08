@@ -35,6 +35,7 @@ dependencies {
 
     include modImplementation("com.github.sib-energy-craft:mod-iron-craft-table-api:${project.sec_mod_iron_craft_table_api_version}")
     include modImplementation("com.github.sib-energy-craft:mod-tools-api:${project.sec_mod_tools_api_version}")
+    include modImplementation("com.github.sib-energy-craft:mod-pipes-api:${project.sec_mod_pipes_api_version}")
 
     include modImplementation("com.github.sib-energy-craft:mod-tools-impl:${project.sec_mod_tools_impl_version}")
     include modImplementation("com.github.sib-energy-craft:mod-rubber:${project.sec_mod_rubber_version}")
@@ -48,6 +49,7 @@ dependencies {
     include modImplementation("com.github.sib-energy-craft:mod-solar-panels:${project.sec_mod_solar_panels_version}")
     include modImplementation("com.github.sib-energy-craft:mod-energy-tools:${project.sec_mod_energy_tools_version}")
     include modImplementation("com.github.sib-energy-craft:mod-chests:${project.sec_mod_chests_version}")
+    include modImplementation("com.github.sib-energy-craft:mod-pipes:${project.sec_mod_pipes_version}")
 }
 
 processResources {
