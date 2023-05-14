@@ -51,6 +51,7 @@ dependencies {
     include modImplementation("com.github.sib-energy-craft:mod-chests:${project.sec_mod_chests_version}")
     include modImplementation("com.github.sib-energy-craft:mod-pipes:${project.sec_mod_pipes_version}")
     include modImplementation("com.github.sib-energy-craft:mod-quarry:${project.sec_mod_quarry_version}")
+    include modImplementation("com.github.sib-energy-craft:mod-agronomy:${project.sec_mod_agronomy_version}")
 }
 
 processResources {
