@@ -53,6 +53,7 @@ dependencies {
     include modImplementation("com.github.sib-energy-craft:mod-quarry:${project.sec_mod_quarry_version}")
     include modImplementation("com.github.sib-energy-craft:mod-agronomy:${project.sec_mod_agronomy_version}")
     include modImplementation("com.github.sib-energy-craft:mod-bronze-age:${project.sec_mod_bronze_age_version}")
+    include modImplementation("com.github.sib-energy-craft:mod-energy-containers:${project.sec_mod_energy_containers_version}")
 }
 
 processResources {
