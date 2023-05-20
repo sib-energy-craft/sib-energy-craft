@@ -64,16 +64,18 @@ Mod namespace: sib_energy_craft
 
 ### Cables
 
-| Code                   | Resistance | Max energy | Project                                                       |
-|------------------------|------------|------------|---------------------------------------------------------------|
-| copper_cable           | 0.2        | 128        | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
-| copper_cable_isolated  | 0.2        | 128        | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
-| tin_cable              | 0.2        | 128        | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
-| tin_cable_isolated     | 0.2        | 128        | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
-| gold_cable             | 0.4        | 128        | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
-| gold_cable_isolated    | 0.4        | 128        | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
-| gold_cable_isolated_x2 | 0.2        | 128        | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
-| glass_fibre_cable      | 0.025      | 8192       | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| Code                   | Project                                                       |
+|------------------------|---------------------------------------------------------------|
+| copper_cable           | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| copper_cable_isolated  | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| tin_cable              | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| tin_cable_isolated     | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| gold_cable             | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| gold_cable_isolated    | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| iron_cable             | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| iron_cable_isolated    | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| iron_cable_isolated_x2 | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
+| glass_fibre_cable      | [mod-cables](https://github.com/sib-energy-craft/mod-cables)  |
 
 
 ### Parts
