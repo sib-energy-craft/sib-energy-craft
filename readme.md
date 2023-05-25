@@ -35,9 +35,14 @@ Mod namespace: sib_energy_craft
 
 ### Energy containers
 
-| Code                    | Capacity | Max input | Project                                                          |
-|-------------------------|----------|-----------|------------------------------------------------------------------|
-| basic_energy_container  | 40000    | 32        | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| Code                     | Capacity  | Max input | Project                                                                            |
+|--------------------------|-----------|-----------|------------------------------------------------------------------------------------|
+| basic_energy_container   | 40 000    | 32        | [mod-energy-containers](https://github.com/sib-energy-craft/mod-energy-containers) |
+| bronze_energy_container  | 300 000   | 128       | [mod-energy-containers](https://github.com/sib-energy-craft/mod-energy-containers) |
+| crystal_energy_container | 4 000 000 | 512       | [mod-energy-containers](https://github.com/sib-energy-craft/mod-energy-containers) |
+| basic_charge_pad         | 40 000    | 32        | [mod-energy-containers](https://github.com/sib-energy-craft/mod-energy-containers) |
+| bronze_charge_pad        | 300 000   | 128       | [mod-energy-containers](https://github.com/sib-energy-craft/mod-energy-containers) |
+| crystal_charge_pad       | 4 000 000 | 512       | [mod-energy-containers](https://github.com/sib-energy-craft/mod-energy-containers) |
 
 ### Energy transformers
 
@@ -49,18 +54,24 @@ Mod namespace: sib_energy_craft
 
 ### Energy machines
 
-| Code           | Max input | Capacity | Project                                                          |
-|----------------|-----------|----------|------------------------------------------------------------------|
-| compressor     | 32        | 800      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
-| energy_furnace | 32        | 640      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
-| extractor      | 32        | 800      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
-| macerator      | 32        | 800      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| Code               | Max input | Capacity | Project                                                          |
+|--------------------|-----------|----------|------------------------------------------------------------------|
+| compressor         | 32        | 800      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| energy_furnace     | 32        | 640      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| induction_furnace  | 128       | 1024     | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| extractor          | 32        | 800      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| macerator          | 32        | 800      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| advanced_macerator | 128       | 1024     | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| cutting_machine    | 32        | 800      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| press_machine      | 32        | 800      | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| mining_drill       | 512       | 1024     | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
 
 ### Energy generators
 
-| Code              | Max output | Capacity | Project                                                          |
-|-------------------|------------|----------|------------------------------------------------------------------|
-| energy_generator  | 32         | 8000     | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| Code             | Max output | Capacity | Project                                                          |
+|------------------|------------|----------|------------------------------------------------------------------|
+| energy_generator | 10         | 8000     | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| bio_reactor      | 10         | 8000     | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
 
 ### Cables
 
@@ -80,9 +91,10 @@ Mod namespace: sib_energy_craft
 
 ### Parts
 
-| Code              | Project                                                          |
-|-------------------|------------------------------------------------------------------|
-| base_machine_body | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| Code                  | Project                                                          |
+|-----------------------|------------------------------------------------------------------|
+| base_machine_body     | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
+| advanced_machine_body | [mod-machines](https://github.com/sib-energy-craft/mod-machines) |
 
 ### Nature
 
@@ -105,6 +117,19 @@ Mod namespace: sib_energy_craft
 | copper_chest  | [mod-chests](https://github.com/sib-energy-craft/mod-chests) |
 | gold_chest    | [mod-chests](https://github.com/sib-energy-craft/mod-chests) |
 | diamond_chest | [mod-chests](https://github.com/sib-energy-craft/mod-chests) |
+
+### Bronze age
+
+| Code              | Project                                                          |
+|-------------------|------------------------------------------------------------------|
+| bronze_axe        | [mod-chests](https://github.com/sib-energy-craft/mod-bronze-age) |
+| bronze_hoe        | [mod-chests](https://github.com/sib-energy-craft/mod-bronze-age) |
+| bronze_shovel     | [mod-chests](https://github.com/sib-energy-craft/mod-bronze-age) |
+| bronze_pickaxe    | [mod-chests](https://github.com/sib-energy-craft/mod-bronze-age) |
+| bronze_boots      | [mod-chests](https://github.com/sib-energy-craft/mod-bronze-age) |
+| bronze_chestplate | [mod-chests](https://github.com/sib-energy-craft/mod-bronze-age) |
+| bronze_helmet     | [mod-chests](https://github.com/sib-energy-craft/mod-bronze-age) |
+| bronze_leggings   | [mod-chests](https://github.com/sib-energy-craft/mod-bronze-age) |
 
 ### Other
 
