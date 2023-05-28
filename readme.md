@@ -151,14 +151,17 @@ Mod namespace: sib_energy_craft
 
 ### Energy Tools
 
-| Code            | Capacity | Project                                                                   |
-|-----------------|----------|---------------------------------------------------------------------------|
-| mining_drill    | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
-| diamond_drill   | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
-| netherite_drill | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
-| energy_tree_tap | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
-| energy_saw      | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
-| energy_hoe      | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| Code                   | Capacity | Project                                                                   |
+|------------------------|----------|---------------------------------------------------------------------------|
+| mining_drill           | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| diamond_drill          | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| netherite_drill        | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| energy_tree_tap        | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| energy_saw             | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| advanced_energy_saw    | 130000   | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| energy_hoe             | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| energy_shovel          | 30000    | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
+| advanced_energy_shovel | 130000   | [mod-energy-tools](https://github.com/sib-energy-craft/mod-energy-tools)  |
 
 ### Ores
 
