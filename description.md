@@ -158,7 +158,7 @@ Status of localisations:
 
 ***
 
-# Feedback & Bag Reports
+# Feedback & Bug Reports
 Do it better here: [sib-energy-craft](https://github.com/sib-energy-craft/sib-energy-craft) this is main mod repository.
 
 Or you can message me on: `sibmaks@proton.me`
